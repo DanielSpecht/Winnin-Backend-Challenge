@@ -1,0 +1,477 @@
+{
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "dist": 26,
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "artificial",
+
+            "title": "test1",
+            "selftext": "test1",
+            "author_fullname": "test1",
+            "ups": 1,
+            "num_comments": 1,
+
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            
+            "link_flair_richtext": [],
+            "subreddit_name_prefixed": "r/artificial",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": null,
+            "downs": 0,
+            "thumbnail_height": null,
+            "hide_score": false,
+            "name": "t3_6i91sh",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "author_flair_background_color": "",
+            "subreddit_type": "public",
+
+            "domain": "self.artificial",
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": "9c825690-82c9-11e3-a29a-12313d18400c",
+            "is_original_content": false,
+            "user_reports": [],
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": null,
+            "can_mod_post": false,
+            "score": 132,
+            "approved_by": null,
+            "thumbnail": "self",
+            "edited": 1497903587,
+            "author_flair_css_class": "",
+            "author_flair_richtext": [],
+            "gildings": {
+              "gid_1": 0,
+              "gid_2": 0,
+              "gid_3": 0
+            },
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1497903395,
+            "link_flair_type": "text",
+            "wls": 6,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "contest_mode": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; is the largest subreddit dedicated to all issues related to Artificial Intelligence or AI. What does that mean? That is actually a tricky question, as the definition of AI is a topic of hot debate among people both inside and outside of the field. Broadly speaking, it is about machines that behave intelligently in some way, but this means different things to different people. &lt;/p&gt;\n\n&lt;p&gt;Most notably, there is the distinction between machines that are (at least) as intelligent as humans (artificial general intelligence / AGI) and machines that are capable of performing one task very well that would require intelligence if a human did it (narrow AI / ANI). When people outside the field think of &amp;quot;AI&amp;quot;, they often think of AGI and possibly very humanlike AGI, often inspired by sci-fi books, shows and movies. However, today we are unable to create such systems. What we &lt;em&gt;can&lt;/em&gt; do is create magnificently useful software and robotic tools, and that is what most of the professional AI field does. So to most professionals &amp;quot;AI&amp;quot; tends to refer to ANI. This can lead to a lot of confusion. &lt;/p&gt;\n\n&lt;p&gt;Another important thing to realize is that AI is an incredibly broad field that touches on Computer Science, Cognitive Science, Mathematics, Philosophy, Neuroscience, Linguistics and many others, and includes many subfields like Machine Learning, Robotics, Natural Language Processing, Computer Vision, Knowledge-Based Systems, Evolutionary Algorithms, Search and Planning. Many of these have subreddits dedicated to them as well (see &lt;a href=\"https://www.reddit.com/r/artificial/wiki/related-subreddits\"&gt;this list&lt;/a&gt;). &lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; is about all of these things. For instance, posts about computer vision are very welcome here, although the poster should realize people here will have a broader AI background than the specialists on &lt;a href=\"/r/computervision\"&gt;/r/computervision&lt;/a&gt;, which might affect the kind of discussion that emerges. &lt;/p&gt;\n\n&lt;p&gt;On &lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; we welcome anyone who is interested in intelligent and respectful discussion of AI in any form. We want to provide a low barrier of entry, specifically because there are so many misconceptions about AI. We do ask that you put in a little effort before posting. Check out our burgeoning &lt;a href=\"https://www.reddit.com/r/artificial/wiki/index\"&gt;wiki&lt;/a&gt; and &lt;a href=\"https://en.wikipedia.org/wiki/Artificial_intelligence\"&gt;Wikipedia&amp;#39;s article on AI&lt;/a&gt; to appreciate the breadth of the field. When you ask a question, &lt;a href=\"http://www.wikihow.com/Ask-a-Question-Intelligently\"&gt;do so intelligently&lt;/a&gt;. When you post a story, prefer balanced discussion to clickbait, and please seek out the original source (many website just copy each others&amp;#39; stories without attribution). When you post a paper, please link to where it can be (legally) obtained for free and ideally to the landing page rather than directly to a PDF. Also consider jumpstarting the discussion with your own insights, questions, additional links and/or a short summary for people outside the niche the article was written for. &lt;/p&gt;\n\n&lt;p&gt;Please use this thread for suggestions, comments and questions &lt;em&gt;about&lt;/em&gt; this subreddit. &lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s make this a great place for discussing artificial intelligence!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": "confidence",
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": true,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?auto=webp&amp;s=c759fd4ac39d4fa8bd3ba856790ce40207dba4c2",
+                    "width": 1142,
+                    "height": 1143
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=fdbb293209c2aebb242ff3b4a6430e1083c38e6a",
+                      "width": 108,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1a16de01fbc43778b47ca5788c13384adcaeae12",
+                      "width": 216,
+                      "height": 216
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c2b96d052f43fe495e2cf9daaa0c35255364b4a0",
+                      "width": 320,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=676a324f02368894d8d94903ddb703e92208abd0",
+                      "width": 640,
+                      "height": 640
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1bac9073248fd1e62c926965cf05a7e940b4fa8a",
+                      "width": 960,
+                      "height": 960
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=af301d4cb7e5eebb5a9511dadc849eb445f10887",
+                      "width": 1080,
+                      "height": 1080
+                    }
+                  ],
+                  "variants": {},
+                  "id": "uaLj3YnlW-A57WaTAkhTbZn2m6kXH-QeWo3n5q1MZtU"
+                }
+              ],
+              "enabled": false
+            },
+            "media_only": false,
+            "link_flair_template_id": null,
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "A(G)I researcher",
+            "visited": false,
+            "num_reports": null,
+            "distinguished": "moderator",
+            "subreddit_id": "t5_2qhfb",
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "",
+            "id": "6i91sh",
+            "is_robot_indexable": true,
+            "report_reasons": null,
+            "author": "CyberByte",
+            "num_crossposts": 0,
+
+            "send_replies": true,
+            "whitelist_status": "all_ads",
+            "mod_reports": [],
+            "author_patreon_flair": false,
+            "author_flair_text_color": "dark",
+            "permalink": "/r/artificial/comments/6i91sh/welcome_to_rartificial/",
+            "parent_whitelist_status": "all_ads",
+            "stickied": true,
+            "url": "https://www.reddit.com/r/artificial/comments/6i91sh/welcome_to_rartificial/",
+            "subreddit_subscribers": 68774,
+            "created_utc": 1497903395,
+            "media": null,
+            "is_video": false
+          }
+        },
+        {
+            "kind": "t3",
+            "data": {
+              "approved_at_utc": null,
+              "subreddit": "artificial",
+  
+              "title": "test2",
+              "selftext": "test2",
+              "author_fullname": "test2",
+              "ups": 2,
+              "num_comments": 2,
+  
+              "saved": false,
+              "mod_reason_title": null,
+              "gilded": 0,
+              "clicked": false,
+              
+              "link_flair_richtext": [],
+              "subreddit_name_prefixed": "r/artificial",
+              "hidden": false,
+              "pwls": 6,
+              "link_flair_css_class": null,
+              "downs": 0,
+              "thumbnail_height": null,
+              "hide_score": false,
+              "name": "t3_6i91sh",
+              "quarantine": false,
+              "link_flair_text_color": "dark",
+              "author_flair_background_color": "",
+              "subreddit_type": "public",
+  
+              "domain": "self.artificial",
+              "media_embed": {},
+              "thumbnail_width": null,
+              "author_flair_template_id": "9c825690-82c9-11e3-a29a-12313d18400c",
+              "is_original_content": false,
+              "user_reports": [],
+              "secure_media": null,
+              "is_reddit_media_domain": false,
+              "is_meta": false,
+              "category": null,
+              "secure_media_embed": {},
+              "link_flair_text": null,
+              "can_mod_post": false,
+              "score": 132,
+              "approved_by": null,
+              "thumbnail": "self",
+              "edited": 1497903587,
+              "author_flair_css_class": "",
+              "author_flair_richtext": [],
+              "gildings": {
+                "gid_1": 0,
+                "gid_2": 0,
+                "gid_3": 0
+              },
+              "post_hint": "self",
+              "content_categories": null,
+              "is_self": true,
+              "mod_note": null,
+              "created": 1497903395,
+              "link_flair_type": "text",
+              "wls": 6,
+              "banned_by": null,
+              "author_flair_type": "text",
+              "contest_mode": false,
+              "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; is the largest subreddit dedicated to all issues related to Artificial Intelligence or AI. What does that mean? That is actually a tricky question, as the definition of AI is a topic of hot debate among people both inside and outside of the field. Broadly speaking, it is about machines that behave intelligently in some way, but this means different things to different people. &lt;/p&gt;\n\n&lt;p&gt;Most notably, there is the distinction between machines that are (at least) as intelligent as humans (artificial general intelligence / AGI) and machines that are capable of performing one task very well that would require intelligence if a human did it (narrow AI / ANI). When people outside the field think of &amp;quot;AI&amp;quot;, they often think of AGI and possibly very humanlike AGI, often inspired by sci-fi books, shows and movies. However, today we are unable to create such systems. What we &lt;em&gt;can&lt;/em&gt; do is create magnificently useful software and robotic tools, and that is what most of the professional AI field does. So to most professionals &amp;quot;AI&amp;quot; tends to refer to ANI. This can lead to a lot of confusion. &lt;/p&gt;\n\n&lt;p&gt;Another important thing to realize is that AI is an incredibly broad field that touches on Computer Science, Cognitive Science, Mathematics, Philosophy, Neuroscience, Linguistics and many others, and includes many subfields like Machine Learning, Robotics, Natural Language Processing, Computer Vision, Knowledge-Based Systems, Evolutionary Algorithms, Search and Planning. Many of these have subreddits dedicated to them as well (see &lt;a href=\"https://www.reddit.com/r/artificial/wiki/related-subreddits\"&gt;this list&lt;/a&gt;). &lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; is about all of these things. For instance, posts about computer vision are very welcome here, although the poster should realize people here will have a broader AI background than the specialists on &lt;a href=\"/r/computervision\"&gt;/r/computervision&lt;/a&gt;, which might affect the kind of discussion that emerges. &lt;/p&gt;\n\n&lt;p&gt;On &lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; we welcome anyone who is interested in intelligent and respectful discussion of AI in any form. We want to provide a low barrier of entry, specifically because there are so many misconceptions about AI. We do ask that you put in a little effort before posting. Check out our burgeoning &lt;a href=\"https://www.reddit.com/r/artificial/wiki/index\"&gt;wiki&lt;/a&gt; and &lt;a href=\"https://en.wikipedia.org/wiki/Artificial_intelligence\"&gt;Wikipedia&amp;#39;s article on AI&lt;/a&gt; to appreciate the breadth of the field. When you ask a question, &lt;a href=\"http://www.wikihow.com/Ask-a-Question-Intelligently\"&gt;do so intelligently&lt;/a&gt;. When you post a story, prefer balanced discussion to clickbait, and please seek out the original source (many website just copy each others&amp;#39; stories without attribution). When you post a paper, please link to where it can be (legally) obtained for free and ideally to the landing page rather than directly to a PDF. Also consider jumpstarting the discussion with your own insights, questions, additional links and/or a short summary for people outside the niche the article was written for. &lt;/p&gt;\n\n&lt;p&gt;Please use this thread for suggestions, comments and questions &lt;em&gt;about&lt;/em&gt; this subreddit. &lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s make this a great place for discussing artificial intelligence!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+              "likes": null,
+              "suggested_sort": "confidence",
+              "banned_at_utc": null,
+              "view_count": null,
+              "archived": true,
+              "no_follow": false,
+              "is_crosspostable": false,
+              "pinned": false,
+              "over_18": false,
+              "preview": {
+                "images": [
+                  {
+                    "source": {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?auto=webp&amp;s=c759fd4ac39d4fa8bd3ba856790ce40207dba4c2",
+                      "width": 1142,
+                      "height": 1143
+                    },
+                    "resolutions": [
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=fdbb293209c2aebb242ff3b4a6430e1083c38e6a",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1a16de01fbc43778b47ca5788c13384adcaeae12",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c2b96d052f43fe495e2cf9daaa0c35255364b4a0",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=676a324f02368894d8d94903ddb703e92208abd0",
+                        "width": 640,
+                        "height": 640
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1bac9073248fd1e62c926965cf05a7e940b4fa8a",
+                        "width": 960,
+                        "height": 960
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=af301d4cb7e5eebb5a9511dadc849eb445f10887",
+                        "width": 1080,
+                        "height": 1080
+                      }
+                    ],
+                    "variants": {},
+                    "id": "uaLj3YnlW-A57WaTAkhTbZn2m6kXH-QeWo3n5q1MZtU"
+                  }
+                ],
+                "enabled": false
+              },
+              "media_only": false,
+              "link_flair_template_id": null,
+              "can_gild": false,
+              "spoiler": false,
+              "locked": false,
+              "author_flair_text": "A(G)I researcher",
+              "visited": false,
+              "num_reports": null,
+              "distinguished": "moderator",
+              "subreddit_id": "t5_2qhfb",
+              "mod_reason_by": null,
+              "removal_reason": null,
+              "link_flair_background_color": "",
+              "id": "6i91sh",
+              "is_robot_indexable": true,
+              "report_reasons": null,
+              "author": "CyberByte",
+              "num_crossposts": 0,
+  
+              "send_replies": true,
+              "whitelist_status": "all_ads",
+              "mod_reports": [],
+              "author_patreon_flair": false,
+              "author_flair_text_color": "dark",
+              "permalink": "/r/artificial/comments/6i91sh/welcome_to_rartificial/",
+              "parent_whitelist_status": "all_ads",
+              "stickied": true,
+              "url": "https://www.reddit.com/r/artificial/comments/6i91sh/welcome_to_rartificial/",
+              "subreddit_subscribers": 68774,
+              "created_utc": 1497903395,
+              "media": null,
+              "is_video": false
+            }
+        },
+        {
+            "kind": "t3",
+            "data": {
+              "approved_at_utc": null,
+              "subreddit": "artificial",
+  
+              "title": "test3",
+              "selftext": "test3",
+              "author_fullname": "test3",
+              "ups": 3,
+              "num_comments": 3,
+  
+              "saved": false,
+              "mod_reason_title": null,
+              "gilded": 0,
+              "clicked": false,
+              
+              "link_flair_richtext": [],
+              "subreddit_name_prefixed": "r/artificial",
+              "hidden": false,
+              "pwls": 6,
+              "link_flair_css_class": null,
+              "downs": 0,
+              "thumbnail_height": null,
+              "hide_score": false,
+              "name": "t3_6i91sh",
+              "quarantine": false,
+              "link_flair_text_color": "dark",
+              "author_flair_background_color": "",
+              "subreddit_type": "public",
+  
+              "domain": "self.artificial",
+              "media_embed": {},
+              "thumbnail_width": null,
+              "author_flair_template_id": "9c825690-82c9-11e3-a29a-12313d18400c",
+              "is_original_content": false,
+              "user_reports": [],
+              "secure_media": null,
+              "is_reddit_media_domain": false,
+              "is_meta": false,
+              "category": null,
+              "secure_media_embed": {},
+              "link_flair_text": null,
+              "can_mod_post": false,
+              "score": 132,
+              "approved_by": null,
+              "thumbnail": "self",
+              "edited": 1497903587,
+              "author_flair_css_class": "",
+              "author_flair_richtext": [],
+              "gildings": {
+                "gid_1": 0,
+                "gid_2": 0,
+                "gid_3": 0
+              },
+              "post_hint": "self",
+              "content_categories": null,
+              "is_self": true,
+              "mod_note": null,
+              "created": 1497903395,
+              "link_flair_type": "text",
+              "wls": 6,
+              "banned_by": null,
+              "author_flair_type": "text",
+              "contest_mode": false,
+              "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; is the largest subreddit dedicated to all issues related to Artificial Intelligence or AI. What does that mean? That is actually a tricky question, as the definition of AI is a topic of hot debate among people both inside and outside of the field. Broadly speaking, it is about machines that behave intelligently in some way, but this means different things to different people. &lt;/p&gt;\n\n&lt;p&gt;Most notably, there is the distinction between machines that are (at least) as intelligent as humans (artificial general intelligence / AGI) and machines that are capable of performing one task very well that would require intelligence if a human did it (narrow AI / ANI). When people outside the field think of &amp;quot;AI&amp;quot;, they often think of AGI and possibly very humanlike AGI, often inspired by sci-fi books, shows and movies. However, today we are unable to create such systems. What we &lt;em&gt;can&lt;/em&gt; do is create magnificently useful software and robotic tools, and that is what most of the professional AI field does. So to most professionals &amp;quot;AI&amp;quot; tends to refer to ANI. This can lead to a lot of confusion. &lt;/p&gt;\n\n&lt;p&gt;Another important thing to realize is that AI is an incredibly broad field that touches on Computer Science, Cognitive Science, Mathematics, Philosophy, Neuroscience, Linguistics and many others, and includes many subfields like Machine Learning, Robotics, Natural Language Processing, Computer Vision, Knowledge-Based Systems, Evolutionary Algorithms, Search and Planning. Many of these have subreddits dedicated to them as well (see &lt;a href=\"https://www.reddit.com/r/artificial/wiki/related-subreddits\"&gt;this list&lt;/a&gt;). &lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; is about all of these things. For instance, posts about computer vision are very welcome here, although the poster should realize people here will have a broader AI background than the specialists on &lt;a href=\"/r/computervision\"&gt;/r/computervision&lt;/a&gt;, which might affect the kind of discussion that emerges. &lt;/p&gt;\n\n&lt;p&gt;On &lt;a href=\"/r/artificial\"&gt;/r/artificial&lt;/a&gt; we welcome anyone who is interested in intelligent and respectful discussion of AI in any form. We want to provide a low barrier of entry, specifically because there are so many misconceptions about AI. We do ask that you put in a little effort before posting. Check out our burgeoning &lt;a href=\"https://www.reddit.com/r/artificial/wiki/index\"&gt;wiki&lt;/a&gt; and &lt;a href=\"https://en.wikipedia.org/wiki/Artificial_intelligence\"&gt;Wikipedia&amp;#39;s article on AI&lt;/a&gt; to appreciate the breadth of the field. When you ask a question, &lt;a href=\"http://www.wikihow.com/Ask-a-Question-Intelligently\"&gt;do so intelligently&lt;/a&gt;. When you post a story, prefer balanced discussion to clickbait, and please seek out the original source (many website just copy each others&amp;#39; stories without attribution). When you post a paper, please link to where it can be (legally) obtained for free and ideally to the landing page rather than directly to a PDF. Also consider jumpstarting the discussion with your own insights, questions, additional links and/or a short summary for people outside the niche the article was written for. &lt;/p&gt;\n\n&lt;p&gt;Please use this thread for suggestions, comments and questions &lt;em&gt;about&lt;/em&gt; this subreddit. &lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s make this a great place for discussing artificial intelligence!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+              "likes": null,
+              "suggested_sort": "confidence",
+              "banned_at_utc": null,
+              "view_count": null,
+              "archived": true,
+              "no_follow": false,
+              "is_crosspostable": false,
+              "pinned": false,
+              "over_18": false,
+              "preview": {
+                "images": [
+                  {
+                    "source": {
+                      "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?auto=webp&amp;s=c759fd4ac39d4fa8bd3ba856790ce40207dba4c2",
+                      "width": 1142,
+                      "height": 1143
+                    },
+                    "resolutions": [
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=fdbb293209c2aebb242ff3b4a6430e1083c38e6a",
+                        "width": 108,
+                        "height": 108
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1a16de01fbc43778b47ca5788c13384adcaeae12",
+                        "width": 216,
+                        "height": 216
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c2b96d052f43fe495e2cf9daaa0c35255364b4a0",
+                        "width": 320,
+                        "height": 320
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=676a324f02368894d8d94903ddb703e92208abd0",
+                        "width": 640,
+                        "height": 640
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1bac9073248fd1e62c926965cf05a7e940b4fa8a",
+                        "width": 960,
+                        "height": 960
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/ITjIDB-jKHtZ4gQVnp8RaTourgde4thvsyjI069AZEM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=af301d4cb7e5eebb5a9511dadc849eb445f10887",
+                        "width": 1080,
+                        "height": 1080
+                      }
+                    ],
+                    "variants": {},
+                    "id": "uaLj3YnlW-A57WaTAkhTbZn2m6kXH-QeWo3n5q1MZtU"
+                  }
+                ],
+                "enabled": false
+              },
+              "media_only": false,
+              "link_flair_template_id": null,
+              "can_gild": false,
+              "spoiler": false,
+              "locked": false,
+              "author_flair_text": "A(G)I researcher",
+              "visited": false,
+              "num_reports": null,
+              "distinguished": "moderator",
+              "subreddit_id": "t5_2qhfb",
+              "mod_reason_by": null,
+              "removal_reason": null,
+              "link_flair_background_color": "",
+              "id": "6i91sh",
+              "is_robot_indexable": true,
+              "report_reasons": null,
+              "author": "CyberByte",
+              "num_crossposts": 0,
+  
+              "send_replies": true,
+              "whitelist_status": "all_ads",
+              "mod_reports": [],
+              "author_patreon_flair": false,
+              "author_flair_text_color": "dark",
+              "permalink": "/r/artificial/comments/6i91sh/welcome_to_rartificial/",
+              "parent_whitelist_status": "all_ads",
+              "stickied": true,
+              "url": "https://www.reddit.com/r/artificial/comments/6i91sh/welcome_to_rartificial/",
+              "subreddit_subscribers": 68774,
+              "created_utc": 1497903395,
+              "media": null,
+              "is_video": false
+            }
+        }
+
+      ],
+      "after": "t3_aqvbj7",
+      "before": null
+    }
+  }
